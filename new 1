@@ -1,6 +1,15 @@
-<html>
+<!DOCTYPE html>
+<head>  <!--used for info of the wed browser-->
+<title>first wedsite</title>
+<style><!--cs cade to style our site-->
 
-<h1> My Cat </h1>
+</style
+</head>
+<body> <!--used for info of the wed site-->
+{backround-color: pink;
+}
+<h1> {fount-color: lightpink;
+} My Cat</h1>
 <P>Cats are part of the feline faimly.
 <a href="https://en.wikipedia.org/wiki/Cats_(2019_film)">Cats</a>like my cat are nice and sweet my cat is a little aggresive. </p>
 
@@ -17,17 +26,19 @@
 
 <h3>this is what you need to do too take care of hime </h3>
 <body>
+{fount-color:lilac;
+}
 <ol>
 <li> feed him at 6:00 am or he will scratch everything </li>
-
-<li> feed him at 4:00 pm or he will scratch everything </li>
-
-
-
+<li> feed him at 4:00 pm or he will scratch everything </li><body>
+<ol>
+</body>
 
 
 
-</html> 
+
+
+</body>
 
 
 
