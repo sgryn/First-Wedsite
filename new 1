@@ -1,16 +1,33 @@
 <html>
 
-<h1> Cats </h1>
-<P>Cats are part of the feline faimly
-<a href="Http://www.lordbyng.net">cats</a>thats all i have too say </p>
+<h1> My Cat </h1>
+<P>Cats are part of the feline faimly.
+<a href="https://en.wikipedia.org/wiki/Cats_(2019_film)">Cats</a>like my cat are nice and sweet my cat is a little aggresive. </p>
 
 
-<p> a youtude video you like  </P>
+<h2> this is what he looks like </h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hw0EwL3SXWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="my cat.jpg">
+<img src="my cat 1.jpg">
+<!-- this is what he looks like. But it is not him.-->
 
-<img src="cat.png">
+<h2> this is what he looks like when you pick him up </h2>
+<iframe width="460" height="215" src="https://www.youtube.com/embed/OdNyue6iBQY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>this is what you need to do too take care of hime </h3>
+<body>
+<ol>
+<li> feed him at 6:00 am or he will scratch everything </li>
+
+<li> feed him at 4:00 pm or he will scratch everything </li>
+
+
+
+
+
 
 </html> 
+
 
 
